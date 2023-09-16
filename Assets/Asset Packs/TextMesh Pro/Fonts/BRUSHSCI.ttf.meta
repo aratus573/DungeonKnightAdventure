@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 116576f5c5bfb3648bda7b4e9d932e9a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Brush Script MT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5d333c185d6991b41b9b0d33729f861d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
