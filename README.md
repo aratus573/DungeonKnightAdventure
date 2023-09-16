@@ -17,7 +17,6 @@
 ![image](Equipments.jpg) 
 
 ##
-Demo  
-[Video](https://youtu.be/Dnx5DR5pg6o)
+[Demo Video](https://youtu.be/Dnx5DR5pg6o)
 
 [Build](https://drive.google.com/file/d/1a9_40h4c44H7zcufbKbu9T_Cf03BoxWh/view?usp=drive_link/)
