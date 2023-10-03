@@ -1,8 +1,17 @@
 # Dungeon Knight Adventure
 3D Roguelike 迷宮探索遊戲  
 
+主要特色:
+
+a. 動態生成的無限3D迷宮關卡
+
+b. 打怪掉寶與升級
+
+c. 玩家角色可以使用近戰或遠程攻擊，並使用翻滾閃躲
+
+
 ##
-迷宮隨機生成
+迷宮動態生成
 ![image](3DDungeonGenerate.gif) 
 1. 在一定空間內產生一些大小不一的房間
 
